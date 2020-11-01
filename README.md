@@ -1,7 +1,7 @@
 # StatThLab @ [UniMib](https://www.mater.unimib.it/en)
 Codes for the Statistical Thermodinamics Lab at UniMib [2016/17]
 
-Literally *my first MD&MC codes*, and it shows, it *really* does. One day I'll take the time to reorganize things quite a bit, for the love of aesthetics. Efficiency it's not a concern and frankly it never will: it's matlab afterall!
+Literally *my first MD&MC codes*, and it shows, it *really* does. One day I'll take the time to reorganize things quite a bit, for the love of aesthetics. Efficiency it's not a concern and frankly never will: it's matlab afterall!
 
 ----------------------------------------------------
 
