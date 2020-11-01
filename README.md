@@ -5,8 +5,8 @@ Literally *my first MD & MC codes*, and it shows, it *really* does. One day I'll
 
 ----------------------------------------------------
 
-To the uneducated: 
+Let's clarify that: 
 - MD stands for *Molecular Dynamics*;
 - MC stands for *Monte Carlo*.
 
-The course/lab focused on using these two popular techniques to tackle a standard ---yet challenging, cause multiscale in nature--- solid state problem: the *fil rouge* being Ag adatoms drifting over fcc silver 100 and 111 surfaces, the MD simulations are meant to investigate the detailed short time-scale dynamics while the MC statistics model surface diffusion in the long time-scale, according to *Transition State Theory* (TST).
+The course/lab focused on using these two popular techniques to tackle a standard ---yet challenging, cause multiscale in nature--- solid state problem: the *fil rouge* being Ag adatoms drifting over fcc silver 100 and 111 surfaces, the MD simulations are meant to investigate the detailed short time-scale dynamics while the MC statistics model surface diffusion in the long time-scale, according to Transition State Theory (TST, ref. to *J. Phys. Chem. 1996, 100, 31, 12771–12800*).
