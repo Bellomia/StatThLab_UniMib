@@ -10,3 +10,7 @@ Let's clarify that:
 - MC stands for *Monte Carlo*.
 
 The course/lab focused on using these two popular techniques to tackle a standard ---yet challenging, cause multiscale in nature--- solid state problem: the *fil rouge* being Ag adatoms drifting over fcc silver 100 and 111 surfaces, the MD simulations are meant to investigate the detailed short time-scale dynamics while the MC statistics model surface diffusion in the long time-scale, according to Transition State Theory (TST, ref. to *J. Phys. Chem. 1996, 100, 31, 12771–12800*).
+
+----------------------------------------------------
+
+All the code is *unlicensed*. You can do whatever you want, for it is effectively on public domain. Further details on the LICENSE file.
